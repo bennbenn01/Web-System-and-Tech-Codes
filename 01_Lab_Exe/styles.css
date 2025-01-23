@@ -1,0 +1,16 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.table-line{
+    border: 2px solid black;
+}
+
+.table-head{
+    font-weight: bold;
+    text-align: center;
+}
+
+.table-body{
+    text-align: center;
+}
