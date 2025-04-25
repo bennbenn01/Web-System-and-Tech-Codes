@@ -1,0 +1,68 @@
+body {
+    background-color: aquamarine;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.header-container{
+    background-color: cadetblue;
+}
+
+.header-title{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.section-container{
+    align-items: center;
+    justify-items: center;
+}
+
+.woman-with-baskets-image{
+    display: flex;
+}
+
+.section-description-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0 16%;
+}
+
+.section-title{
+    font-family: sans-serif;
+}
+
+.section-description{
+    align-items: center;
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+.image-main-container{
+    align-items: center;
+    justify-content: center;
+}
+
+.image-main-container > div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    gap: 10px;
+}
+
+.footer-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: cadetblue;
+    font-weight: bold;
+}
